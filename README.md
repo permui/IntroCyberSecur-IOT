@@ -1,5 +1,5 @@
 # ICS - theme IOT - Experiment
 
-Introduction to Cyber Security, not to Computer System.
+ICS : Introduction to ~~Computer~~Cyber ~~System~~Security.
 
 This repository holds my naive code in this experiment, without data set.
