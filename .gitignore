@@ -1,0 +1,5 @@
+*.png
+*.json
+*.csv
+/__pycache__/
+/write/
